@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\acadgild_work\AndroidPizza-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8211a70097790c5fbdbb3137e8b444ff1df233cf">
+        <dex dex="E:\acadgild_work\AndroidPizza-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_1dd0b13151311f3b3a32a9a56ea151107a1838ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\acadgild_work\AndroidPizza-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8425274526fde854f03f49ba55f723df43621125">
+        <dex dex="E:\acadgild_work\AndroidPizza-master\app\build\intermediates\pre-dexed\debug\instant-run_4fad0b3dfea35cf72178264570363e6ebdd6155d.jar" />
+    </item>
+
+</items>

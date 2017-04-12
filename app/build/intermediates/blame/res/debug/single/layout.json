@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\acadgild_work\\AndroidPizza-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\acadgild_work\\AndroidPizza-master\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\acadgild_work\\AndroidPizza-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\new_pizza.xml",
+        "source": "E:\\acadgild_work\\AndroidPizza-master\\app\\src\\main\\res\\layout\\new_pizza.xml"
+    },
+    {
+        "merged": "E:\\acadgild_work\\AndroidPizza-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\order_page.xml",
+        "source": "E:\\acadgild_work\\AndroidPizza-master\\app\\src\\main\\res\\layout\\order_page.xml"
+    },
+    {
+        "merged": "E:\\acadgild_work\\AndroidPizza-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview.xml",
+        "source": "E:\\acadgild_work\\AndroidPizza-master\\app\\src\\main\\res\\layout\\listview.xml"
+    },
+    {
+        "merged": "E:\\acadgild_work\\AndroidPizza-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pizza_design.xml",
+        "source": "E:\\acadgild_work\\AndroidPizza-master\\app\\src\\main\\res\\layout\\pizza_design.xml"
+    }
+]
